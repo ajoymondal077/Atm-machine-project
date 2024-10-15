@@ -14,6 +14,11 @@ This project simulates a basic **ATM System** using Java with MySQL integration.
 - **Swing** for GUI interface
 - **MySQL** for storing user and account details
 
+## Screen Recording:
+Here is a video demonstration of the ATM system:
+
+[ATM Machine Demo](./images/atm_demo.mp4)
+
 ## How to Run:
 1. Clone the repository.
 2. Set up the MySQL database using the `atm_machine.sql` script located in the `database/` folder.
